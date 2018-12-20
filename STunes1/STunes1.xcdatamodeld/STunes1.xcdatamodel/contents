@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15B42" minimumToolsVersion="Automatic">
+    <entity name="SongDetails" representedClassName="SongDetails" syncable="YES">
+        <attribute name="albumName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="coverImg" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
+        <attribute name="isFavourite" optional="YES" attributeType="Integer 16" syncable="YES"/>
+        <attribute name="lyrics" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="songID" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="songName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="SongDetails" positionX="-63" positionY="-18" width="128" height="135"/>
+    </elements>
+</model>

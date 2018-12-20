@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "7c88ad08-da9e-43bb-8433-4b78805715d9" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7c88ad08-da9e-43bb-8433-4b78805715d9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3FB97CBC-43B8-429B-BC97-A697E9089B46",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7c88ad08-da9e-43bb-8433-4b78805715d9" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NetworkHandler",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NetworkHandler.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/pl5.projectlocker.com\/36cubed\/Bliss_iOS\/svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7c88ad08-da9e-43bb-8433-4b78805715d9"
+    }
+  ]
+}
